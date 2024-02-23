@@ -1,0 +1,4 @@
+lavad status 2>&1 | jq .SyncInfo.catching_up
+
+faucet : 
+ask in discord, 
